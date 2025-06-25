@@ -99,6 +99,6 @@ Feel free to fork the repo and submit your improvements!
 ## 👨‍💻 Created By
 
 **Girisudhan V**  
-📧 girisudhan211@gmail.com  
-🌐 [girisudhan.liveblog365.com](https://girisudhan.liveblog365.com)
-"# task-manager-app" 
+📧 vagcreations2007@gmail.com  
+🌐 [vagcreations.unaux.com](https://vagcreations.unaux.com)
+
